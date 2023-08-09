@@ -4,7 +4,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 
 # Progress
 
-- [ ] variables
+- [x] variables
 - [ ] functions
 - [ ] if
 - [ ] quiz1
