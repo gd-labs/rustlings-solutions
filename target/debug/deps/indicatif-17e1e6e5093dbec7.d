@@ -1,0 +1,11 @@
+/home/gustavo/Documents/Studies/rustlings/target/debug/deps/indicatif-17e1e6e5093dbec7.rmeta: /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/lib.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/format.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/iter.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/progress_bar.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/state.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/style.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/utils.rs
+
+/home/gustavo/Documents/Studies/rustlings/target/debug/deps/indicatif-17e1e6e5093dbec7.d: /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/lib.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/format.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/iter.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/progress_bar.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/state.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/style.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/utils.rs
+
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/lib.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/format.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/iter.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/progress_bar.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/state.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/style.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.16.2/src/utils.rs:

@@ -1,0 +1,13 @@
+/home/gustavo/Documents/Studies/rustlings/target/debug/deps/net2-aebf92560994ca49.rmeta: /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs
+
+/home/gustavo/Documents/Studies/rustlings/target/debug/deps/net2-aebf92560994ca49.d: /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs
+
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs:
