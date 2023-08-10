@@ -20,7 +20,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [ ] options
 - [x] primitive types
 - [ ] smart pointers
-- [ ] strings
+- [x] strings
 - [x] structs
 - [ ] tests
 - [ ] threads
