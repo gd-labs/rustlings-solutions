@@ -5,7 +5,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 # Progress
 
 - [x] variables
-- [ ] functions
+- [x] functions
 - [ ] if
 - [ ] quiz1
 - [ ] move_semantics
