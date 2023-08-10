@@ -6,7 +6,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 
 - [ ] clippy
 - [ ] conversions
-- [ ] enums
+- [x] enums
 - [x] error handling
 - [x] functions
 - [ ] generics
@@ -15,7 +15,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [ ] iterators
 - [ ] lifetimes
 - [ ] macros
-- [ ] modules
+- [x] modules
 - [x] move semantics
 - [ ] options
 - [x] primitive types
