@@ -7,7 +7,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] variables
 - [x] functions
 - [x] if
-- [ ] quiz1
+- [x] quiz1
 - [ ] move_semantics
 - [ ] primitive_types
 - [ ] structs
