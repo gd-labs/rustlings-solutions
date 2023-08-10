@@ -9,7 +9,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] if
 - [x] quiz1
 - [ ] move_semantics
-- [ ] primitive_types
+- [x] primitive_types
 - [ ] structs
 - [ ] enums
 - [ ] modules
