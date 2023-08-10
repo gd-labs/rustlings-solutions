@@ -4,28 +4,29 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 
 # Progress
 
-- [x] variables
-- [x] functions
-- [x] if
-- [x] quiz1
-- [ ] move_semantics
-- [x] primitive_types
-- [ ] structs
-- [ ] enums
-- [ ] modules
-- [ ] collections
-- [ ] strings
-- [ ] quiz2
-- [ ] error_handlings
-- [ ] generics
-- [ ] option
-- [ ] traits
-- [ ] tests
-- [ ] quiz3
-- [ ] standard_library_types
-- [ ] threads
-- [ ] macros
-- [ ] quiz4
 - [ ] clippy
 - [ ] conversions
-- [ ] advanced_errors
+- [ ] enums
+- [ ] error handling
+- [x] functions
+- [ ] generics
+- [ ] hashmaps
+- [x] if
+- [ ] iterators
+- [ ] lifetimes
+- [ ] macros
+- [ ] modules
+- [ ] move semantics
+- [ ] options
+- [x] primitive types
+- [ ] smart pointers
+- [ ] strings
+- [ ] structs
+- [ ] tests
+- [ ] threads
+- [ ] traits
+- [x] variables
+- [x] vecs
+- [x] quiz 1
+- [ ] quiz 2
+- [ ] quiz 3
