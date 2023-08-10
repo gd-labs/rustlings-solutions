@@ -16,7 +16,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [ ] lifetimes
 - [ ] macros
 - [ ] modules
-- [ ] move semantics
+- [x] move semantics
 - [ ] options
 - [x] primitive types
 - [ ] smart pointers
