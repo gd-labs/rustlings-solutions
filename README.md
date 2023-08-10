@@ -21,7 +21,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] primitive types
 - [ ] smart pointers
 - [ ] strings
-- [ ] structs
+- [x] structs
 - [ ] tests
 - [ ] threads
 - [ ] traits
