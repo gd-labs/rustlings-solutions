@@ -10,7 +10,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] error handling
 - [x] functions
 - [ ] generics
-- [ ] hashmaps
+- [x] hashmaps
 - [x] if
 - [ ] iterators
 - [ ] lifetimes
