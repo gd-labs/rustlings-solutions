@@ -28,5 +28,5 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] variables
 - [x] vecs
 - [x] quiz 1
-- [ ] quiz 2
+- [x] quiz 2
 - [ ] quiz 3
