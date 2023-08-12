@@ -9,7 +9,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] enums
 - [x] error handling
 - [x] functions
-- [ ] generics
+- [x] generics
 - [x] hashmaps
 - [x] if
 - [ ] iterators
