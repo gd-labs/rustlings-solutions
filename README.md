@@ -24,7 +24,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] structs
 - [ ] tests
 - [ ] threads
-- [ ] traits
+- [x] traits
 - [x] variables
 - [x] vecs
 - [x] quiz 1
