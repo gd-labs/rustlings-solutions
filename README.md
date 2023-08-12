@@ -29,4 +29,4 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] vecs
 - [x] quiz 1
 - [x] quiz 2
-- [ ] quiz 3
+- [x] quiz 3
