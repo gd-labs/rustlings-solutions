@@ -13,7 +13,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] hashmaps
 - [x] if
 - [ ] iterators
-- [ ] lifetimes
+- [x] lifetimes
 - [ ] macros
 - [x] modules
 - [x] move semantics
