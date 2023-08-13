@@ -12,7 +12,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] generics
 - [x] hashmaps
 - [x] if
-- [ ] iterators
+- [x] iterators
 - [x] lifetimes
 - [ ] macros
 - [x] modules
