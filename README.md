@@ -22,7 +22,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [ ] smart pointers
 - [x] strings
 - [x] structs
-- [ ] tests
+- [x] tests
 - [ ] threads
 - [x] traits
 - [x] variables
