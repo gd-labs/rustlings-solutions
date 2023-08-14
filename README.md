@@ -23,7 +23,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] strings
 - [x] structs
 - [x] tests
-- [ ] threads
+- [x] threads
 - [x] traits
 - [x] variables
 - [x] vecs
