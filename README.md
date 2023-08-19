@@ -19,7 +19,7 @@ Solutions to the exercises presented in the latest release of [Rustlings](https:
 - [x] move semantics
 - [x] options
 - [x] primitive types
-- [ ] smart pointers
+- [x] smart pointers
 - [x] strings
 - [x] structs
 - [x] tests
